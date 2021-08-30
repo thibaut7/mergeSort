@@ -1,1 +1,2 @@
-# mergeSort
+# mergeSort ou tri de fusion
+
